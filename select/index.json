@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Stand By You (Acoustic ver.)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-04T18:31:55.353871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand By You (Acoustic ver.)",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/01_Stand_By_You_(Acoustic_ver.)_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand By You (Acoustic ver.)",
+      "artist": "Official HIGE DANdism",
+      "has_synced": true,
+      "path": "select/02_Stand_By_You_(Acoustic_ver.)_Official_HIGE_DANdism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand By You Acoustic Ver.",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/03_Stand_By_You_Acoustic_Ver._OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stand By You (Acoustic Ver.)",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Stand_By_You_(Acoustic_Ver.)_Official髭男dism.txt"
+    }
+  ]
+}
